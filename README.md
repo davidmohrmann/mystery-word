@@ -1,1 +1,1 @@
-# mystery-word
+# Mystery Word
